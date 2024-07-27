@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on some light reviews according to my growing skills 
 - 📫 How to reach me via email at ekmuyal6@gmail.com
-- 😄 Pronouns: ...Iam male 
+- 😄 Pronouns: ... I am male 
 - ⚡ Fun fact: ...
 
 <!---
