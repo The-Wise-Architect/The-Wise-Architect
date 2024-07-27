@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @The-Wise-Architect
 - 👀 I’m interested in Python, C++, networking and cloud computing 
 - 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on some lihht reviews according to my growing skills 
+- 💞️ I’m looking to collaborate on some light reviews according to my growing skills 
 - 📫 How to reach me via email at ekmuyal6@gmail.com
 - 😄 Pronouns: ...Iam male 
 - ⚡ Fun fact: ...
